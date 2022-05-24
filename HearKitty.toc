@@ -1,0 +1,12 @@
+## Interface: 30300
+## Version: 1.3.2
+## Title: Hear Kitty
+## Notes: Hear Kitty plays sounds when you gain and spend combo points.
+## SavedVariablesPerCharacter: KittyOptions
+
+VgerCore\VgerCore.lua
+
+Localization.lua
+HearKitty.lua
+HearKittyOptions.lua
+HearKittyOptions.xml
